@@ -101,6 +101,8 @@ public static class BotMessages
     /// </summary>
     public static class Ministry
     {
+        public const string MinistryMenu = "🙏 <b>Служіння церкви</b>\n\nОберіть служіння:";
+        
         public const string Sunday =
             "<b>Недільне богослужіння</b>\n\n" +
             "📅 <b>Кожної неділі о 🕓 16:00</b>\n" +
